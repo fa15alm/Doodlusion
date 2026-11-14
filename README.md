@@ -1,4 +1,4 @@
-# Canvas & Clues
+# Doodlusion
 
 A browser-based, real-time multiplayer drawing and guessing game, developed for the COMP390 Honours Year Project at the University of Liverpool.
 
